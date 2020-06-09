@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Lista de Salas - 09/06/2020 13:08:24-->
+<Salas>
+  <Sala>
+    <ID>1</ID>
+    <Filmes>
+      <Filme>Man From Uncle</Filme>
+    </Filmes>
+  </Sala>
+  <Sala>
+    <ID>2</ID>
+    <Filmes>
+      <Filme>Missao Impossivel</Filme>
+      <Filme>Descarrilada</Filme>
+    </Filmes>
+  </Sala>
+  <Sala>
+    <ID>3</ID>
+    <Filmes>
+      <Filme>Vontade de Vencer</Filme>
+    </Filmes>
+  </Sala>
+  <Sala>
+    <ID>4</ID>
+    <Filmes>
+      <Filme>Minimos</Filme>
+      <Filme>Férias</Filme>
+    </Filmes>
+  </Sala>
+  <Sala>
+    <ID>5</ID>
+    <Filmes>
+      <Filme>Hitman</Filme>
+    </Filmes>
+  </Sala>
+  <Sala>
+    <ID>6</ID>
+    <Filmes>
+      <Filme>Patio das Cantigas</Filme>
+    </Filmes>
+  </Sala>
+  <Sala>
+    <ID>7</ID>
+    <Filmes>
+      <Filme>Uuups!</Filme>
+      <Filme>Somos Teus Amigos</Filme>
+    </Filmes>
+  </Sala>
+</Salas>
